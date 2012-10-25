@@ -11,7 +11,7 @@ body {
     min-height: 390px;
     width: 960px;
     margin: 100px auto 20px;
-    background: url(me.png) no-repeat 110% 0;
+    /*background: url(me.png) no-repeat 110% 0;*/
     font-family: 'IM Fell DW Pica', times, serif;
 }
 
